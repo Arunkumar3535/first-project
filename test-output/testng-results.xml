@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20794" started-at="2022-01-04T10:14:01Z" finished-at="2022-01-04T10:14:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20794" started-at="2022-01-04T10:14:01Z" finished-at="2022-01-04T10:14:22Z">
+      <class name="org.demo.flip">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:org.demo.flip@6d4b1c02]" name="beforeclass" is-config="true" duration-ms="2886" started-at="2022-01-04T10:14:01Z" finished-at="2022-01-04T10:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.demo.flip@6d4b1c02]" name="beforemethod" is-config="true" duration-ms="1" started-at="2022-01-04T10:14:04Z" finished-at="2022-01-04T10:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:org.demo.flip@6d4b1c02]" name="test" duration-ms="17873" started-at="2022-01-04T10:14:04Z" finished-at="2022-01-04T10:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.demo.flip@6d4b1c02]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-01-04T10:14:22Z" finished-at="2022-01-04T10:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:org.demo.flip@6d4b1c02]" name="afterclass" is-config="true" duration-ms="1" started-at="2022-01-04T10:14:22Z" finished-at="2022-01-04T10:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- org.demo.flip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
